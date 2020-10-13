@@ -1,0 +1,4 @@
+a.ud_logo img {
+    width: inherit;
+    padding: 0px 35px;
+}

@@ -1,0 +1,24 @@
+/*********** NAV STYLES **********/
+
+aside.main-sidebar.sidebar-dark-primary.elevation-4.ud_nav {
+    background-color: #2e3133;
+}
+
+a.ud_logo img {
+    width: inherit;
+    padding: 0px 35px;
+}
+
+
+a.nav-link.active {
+	background-color: #007cba;
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #007cba;
+    color: #fff;
+}
+
+footer.main-footer {
+    font-size: 12px;
+}
